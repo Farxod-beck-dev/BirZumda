@@ -100,3 +100,4 @@ REST_FRAMEWORK = {
     ],
 }
 AUTH_USER_MODEL = 'core.User'
+ALLOWED_HOSTS = ['birzumda.onrender.com', '127.0.0.1', 'localhost']
